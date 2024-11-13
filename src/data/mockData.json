@@ -1,0 +1,4139 @@
+{ 
+    "id": 1,
+    "name": "Ben Brown",
+    "vehicle": "Jeep Grand Cherokee",
+    "year": 2015,
+    "zip": 66213,
+    "estimated_mpg": 0,
+    "desired_hourly":30,
+    "desired_work_hours_weekly": 66,
+    "apps": [{
+    "instacart":[{    "ORDER_CREATED_TIME": "2024-07-24 17:24:30",
+    "ACTUAL_PICKUP_TIME": "2024-07-24 17:27:18",
+    "ACTUAL_DELIVERY_TIME": "2024-07-24 17:36:16",
+    "STORE_NAME": "Chick-fil-A (04610)",
+    "TOTAL_ITEM_COUNT": 2,
+    "SUBTOTAL_IN_CENTS": 0,
+    "ORDER_STATUS": "Order Delivered",
+    "TIP": ""}],
+    "amazon_flex":[{  "ORDER_CREATED_TIME": "2024-07-24 17:24:30",
+    "ACTUAL_PICKUP_TIME": "2024-07-24 17:27:18",
+    "ACTUAL_DELIVERY_TIME": "2024-07-24 17:36:16",
+    "STORE_NAME": "Chick-fil-A (04610)",
+    "TOTAL_ITEM_COUNT": 2,
+    "SUBTOTAL_IN_CENTS": 0,
+    "ORDER_STATUS": "Order Delivered",
+    "TIP": ""}],
+    "lyft_data":[{
+        "ORDER_CREATED_TIME": "2024-07-24 17:24:30",
+        "ACTUAL_PICKUP_TIME": "2024-07-24 17:27:18",
+        "ACTUAL_DELIVERY_TIME": "2024-07-24 17:36:16",
+        "STORE_NAME": "Chick-fil-A (04610)",
+        "TOTAL_ITEM_COUNT": 2,
+        "SUBTOTAL_IN_CENTS": 0,
+        "ORDER_STATUS": "Order Delivered",
+        "TIP": ""
+    }],
+    "uber_data":[        {
+        "ORDER_CREATED_TIME": "2024-07-24 17:24:30",
+        "ACTUAL_PICKUP_TIME": "2024-07-24 17:27:18",
+        "ACTUAL_DELIVERY_TIME": "2024-07-24 17:36:16",
+        "STORE_NAME": "Chick-fil-A (04610)",
+        "TOTAL_ITEM_COUNT": 2,
+        "SUBTOTAL_IN_CENTS": 0,
+        "ORDER_STATUS": "Order Delivered",
+        "TIP": ""
+    },
+    {
+        "ORDER_CREATED_TIME": "2024-07-29 1:09:46",
+        "ACTUAL_PICKUP_TIME": "2024-07-29 1:35:20",
+        "ACTUAL_DELIVERY_TIME": "2024-07-29 1:41:52",
+        "STORE_NAME": "Panera - Flynn Restaurant Group, Pan NorCal LLC (Shawnee Mission Parkway)",
+        "TOTAL_ITEM_COUNT": 1,
+        "SUBTOTAL_IN_CENTS": 0,
+        "ORDER_STATUS": "Order Delivered",
+        "TIP": ""
+    }],
+    "dash_data": [
+        {
+            "ORDER_CREATED_TIME": "2024-07-24 17:24:30",
+            "ACTUAL_PICKUP_TIME": "2024-07-24 17:27:18",
+            "ACTUAL_DELIVERY_TIME": "2024-07-24 17:36:16",
+            "STORE_NAME": "Chick-fil-A (04610)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 1:09:46",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 1:35:20",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 1:41:52",
+            "STORE_NAME": "Panera - Flynn Restaurant Group, Pan NorCal LLC (Shawnee Mission Parkway)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 2:06:12",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 2:21:03",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 2:27:39",
+            "STORE_NAME": "Papa Johns DDD (2594)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 18:48:06",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 19:02:25",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 19:09:56",
+            "STORE_NAME": "Chipotle (State Line Road)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 1:59:18",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 2:28:49",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 2:34:30",
+            "STORE_NAME": "Little Caesars Pizza (8925 West 95th Street)",
+            "TOTAL_ITEM_COUNT": 7,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-03 2:10:24",
+            "ACTUAL_PICKUP_TIME": "2024-08-03 2:26:07",
+            "ACTUAL_DELIVERY_TIME": "2024-08-03 2:32:48",
+            "STORE_NAME": "KANSAS CITY-7TH",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 21:58:35",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 22:19:47",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 22:27:48",
+            "STORE_NAME": "Twisted Fresh (College Blvd)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-05 22:29:29",
+            "ACTUAL_PICKUP_TIME": "2024-08-05 22:40:13",
+            "ACTUAL_DELIVERY_TIME": "2024-08-05 22:46:13",
+            "STORE_NAME": "Chick-fil-A (01846)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-05 22:43:58",
+            "ACTUAL_PICKUP_TIME": "2024-08-05 23:15:44",
+            "ACTUAL_DELIVERY_TIME": "2024-08-05 23:26:20",
+            "STORE_NAME": "Harris and Harris Enterprises, LLC (Quivira Road)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 23:20:38",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 23:30:32",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 23:35:53",
+            "STORE_NAME": "Pizza Hut (38402) - DT",
+            "TOTAL_ITEM_COUNT": 10,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 23:37:36",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 0:16:48",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 0:23:33",
+            "STORE_NAME": "Little Caesars Pizza (8925 West 95th Street)",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-10 2:25:57",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 2:47:20",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 2:55:44",
+            "STORE_NAME": "Red Door Woodfired Grill - Leawood",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-13 12:18:12",
+            "ACTUAL_PICKUP_TIME": "2024-08-13 12:56:27",
+            "ACTUAL_DELIVERY_TIME": "2024-08-13 13:03:15",
+            "STORE_NAME": "Panera - Flynn Restaurant Group, Pan NorCal LLC (Metcalf Avenue)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-12 22:30:15",
+            "ACTUAL_PICKUP_TIME": "2024-08-13 12:45:41",
+            "ACTUAL_DELIVERY_TIME": "2024-08-13 13:28:56",
+            "STORE_NAME": "Krispy Kreme (Metcalf Avenue)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 3:32:55",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 3:45:49",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 3:58:54",
+            "STORE_NAME": "KC, MO @RED BRIDGE & HICKMAN MILLS",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 16:20:48",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 16:25:48",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 16:33:22",
+            "STORE_NAME": "OVER PK-FOSTER",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-19 0:32:30",
+            "ACTUAL_PICKUP_TIME": "2024-08-19 0:53:41",
+            "ACTUAL_DELIVERY_TIME": "2024-08-19 0:55:47",
+            "STORE_NAME": "Cozy Thai Restaurant (1032 West 103rd Street)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-21 1:30:47",
+            "ACTUAL_PICKUP_TIME": "2024-08-21 1:42:09",
+            "ACTUAL_DELIVERY_TIME": "2024-08-21 1:49:34",
+            "STORE_NAME": "135TH & ANTIOCH",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-22 18:08:26",
+            "ACTUAL_PICKUP_TIME": "2024-08-22 18:32:22",
+            "ACTUAL_DELIVERY_TIME": "2024-08-22 19:36:20",
+            "STORE_NAME": "The Afloat App, Inc.",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-31 1:08:19",
+            "ACTUAL_PICKUP_TIME": "2024-08-31 1:17:36",
+            "ACTUAL_DELIVERY_TIME": "2024-08-31 1:22:51",
+            "STORE_NAME": "Papa Johns DDD (2718)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-13 2:28:49",
+            "ACTUAL_PICKUP_TIME": "2024-09-13 3:02:06",
+            "ACTUAL_DELIVERY_TIME": "2024-09-13 3:12:46",
+            "STORE_NAME": "QDOBA Mexican Eats (Metcalf Avenue)",
+            "TOTAL_ITEM_COUNT": 7,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-13 16:03:20",
+            "ACTUAL_PICKUP_TIME": "2024-09-13 16:12:34",
+            "ACTUAL_DELIVERY_TIME": "2024-09-13 16:15:56",
+            "STORE_NAME": "Chipotle (West 135th Street)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-21 3:20:58",
+            "ACTUAL_PICKUP_TIME": "2024-09-21 3:57:06",
+            "ACTUAL_DELIVERY_TIME": "2024-09-21 4:06:54",
+            "STORE_NAME": "Buffalo Wild Wings (West 105th Street)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-01 1:47:20",
+            "ACTUAL_PICKUP_TIME": "2024-11-01 1:59:48",
+            "ACTUAL_DELIVERY_TIME": "2024-11-01 2:05:15",
+            "STORE_NAME": "CCC0116944 (13111 State Line Road)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-04 17:38:12",
+            "ACTUAL_PICKUP_TIME": "2024-11-04 18:22:07",
+            "ACTUAL_DELIVERY_TIME": "2024-11-04 18:39:57",
+            "STORE_NAME": "Hy-Vee (1509)",
+            "TOTAL_ITEM_COUNT": 10,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-06 22:20:14",
+            "ACTUAL_PICKUP_TIME": "2024-11-06 22:29:15",
+            "ACTUAL_DELIVERY_TIME": "2024-11-06 22:33:33",
+            "STORE_NAME": "Papa Johns DDD (2718)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-08 0:55:27",
+            "ACTUAL_PICKUP_TIME": "2024-11-08 1:02:52",
+            "ACTUAL_DELIVERY_TIME": "2024-11-08 1:08:39",
+            "STORE_NAME": "Chipotle (College Boulevard)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 0,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 8:14:24",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 8:26:07",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 8:40:51",
+            "STORE_NAME": "7-Eleven (35786)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 199,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-31 21:39:55",
+            "ACTUAL_PICKUP_TIME": "2024-07-31 22:04:59",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 22:15:27",
+            "STORE_NAME": "Taco Bell - 034398",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 365,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 7:47:03",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 7:57:33",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 8:09:53",
+            "STORE_NAME": "7-Eleven (35523)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 399,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 3:19:37",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 3:40:18",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 4:02:36",
+            "STORE_NAME": "Sonic Drive-In (5037)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 459,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-12 19:32:09",
+            "ACTUAL_PICKUP_TIME": "2024-08-12 19:43:58",
+            "ACTUAL_DELIVERY_TIME": "2024-08-12 19:53:18",
+            "STORE_NAME": "Sonic Drive-In (4429)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 462,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 3:27:57",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 3:40:05",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 3:46:44",
+            "STORE_NAME": "Sonic Drive-In (5037)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 494,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-09 0:41:37",
+            "ACTUAL_PICKUP_TIME": "2024-11-09 1:02:53",
+            "ACTUAL_DELIVERY_TIME": "2024-11-09 1:13:37",
+            "STORE_NAME": "Tuk Tuk Thai",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 550,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 1:56:20",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 2:14:05",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 2:23:32",
+            "STORE_NAME": "Jack in the Box (6201)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 558,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 23:05:55",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 23:21:52",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 23:29:44",
+            "STORE_NAME": "Dunkin' (352265)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 611,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 20:43:11",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 20:48:56",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 20:53:39",
+            "STORE_NAME": "Sonic Drive-In (4429)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 669,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 15:19:07",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 15:31:24",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 15:39:04",
+            "STORE_NAME": "Starbucks (13953)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 695,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-04 21:28:57",
+            "ACTUAL_PICKUP_TIME": "2024-11-04 21:37:30",
+            "ACTUAL_DELIVERY_TIME": "2024-11-04 21:41:59",
+            "STORE_NAME": "Chick-fil-A (01772)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 699,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 17:51:43",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 18:00:54",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 18:28:29",
+            "STORE_NAME": "Bruu Cafe at Park Place",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 750,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-08 4:15:43",
+            "ACTUAL_PICKUP_TIME": "2024-11-08 4:37:39",
+            "ACTUAL_DELIVERY_TIME": "2024-11-08 4:45:03",
+            "STORE_NAME": "Sonic Drive-In (2677)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 754,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 0:06:33",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 0:21:38",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 0:41:45",
+            "STORE_NAME": "Dairy Queen (41242)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 796,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 22:07:07",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 22:23:08",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 22:32:24",
+            "STORE_NAME": "Pizza Hut (038404) Marketplace - Hut Midwest LLC",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 865,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 15:09:20",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 15:19:13",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 15:22:48",
+            "STORE_NAME": "McDonald's (29868-OLATHE, KS 119 & RIDGEVIEW)",
+            "TOTAL_ITEM_COUNT": 8,
+            "SUBTOTAL_IN_CENTS": 917,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 18:02:13",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 18:09:47",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 18:24:23",
+            "STORE_NAME": "Raising Canes - 221",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 918,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-08 23:00:19",
+            "ACTUAL_PICKUP_TIME": "2024-11-08 23:26:10",
+            "ACTUAL_DELIVERY_TIME": "2024-11-08 23:50:04",
+            "STORE_NAME": "Raising Canes - 221",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 918,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-16 21:16:50",
+            "ACTUAL_PICKUP_TIME": "2024-08-16 21:32:33",
+            "ACTUAL_DELIVERY_TIME": "2024-08-16 21:41:36",
+            "STORE_NAME": "Sonic Drive-In (6122)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 930,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 1:52:43",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 2:08:31",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 2:26:02",
+            "STORE_NAME": "Chick-fil-A (04543)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 949,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-04 1:58:21",
+            "ACTUAL_PICKUP_TIME": "2024-10-04 2:03:30",
+            "ACTUAL_DELIVERY_TIME": "2024-10-04 2:18:19",
+            "STORE_NAME": "Chartroose Caboose",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 974,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-14 1:05:17",
+            "ACTUAL_PICKUP_TIME": "2024-09-14 1:43:30",
+            "ACTUAL_DELIVERY_TIME": "2024-09-14 1:55:53",
+            "STORE_NAME": "KFC (G135020)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 983,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-01 16:49:48",
+            "ACTUAL_PICKUP_TIME": "2024-11-01 17:10:17",
+            "ACTUAL_DELIVERY_TIME": "2024-11-01 17:23:08",
+            "STORE_NAME": "Culver's ButterBurgers and Frozen Custard (285)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1008,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-05 23:12:43",
+            "ACTUAL_PICKUP_TIME": "2024-11-05 23:26:05",
+            "ACTUAL_DELIVERY_TIME": "2024-11-05 23:35:04",
+            "STORE_NAME": "Raising Canes - 511",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1014,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-13 0:02:24",
+            "ACTUAL_PICKUP_TIME": "2024-09-13 0:18:52",
+            "ACTUAL_DELIVERY_TIME": "2024-09-13 0:38:16",
+            "STORE_NAME": "Longboards Wraps & Bowls (135th St)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1039,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 16:38:32",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 16:59:34",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 17:11:35",
+            "STORE_NAME": "Raising Canes - 221",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1049,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-22 16:17:25",
+            "ACTUAL_PICKUP_TIME": "2024-08-22 16:33:10",
+            "ACTUAL_DELIVERY_TIME": "2024-08-22 16:37:50",
+            "STORE_NAME": "Raising Canes - 221",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1049,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-31 21:09:49",
+            "ACTUAL_PICKUP_TIME": "2024-07-31 21:22:07",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 21:38:24",
+            "STORE_NAME": "Yummy Chinese",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1055,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 21:28:46",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 21:46:53",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 22:04:09",
+            "STORE_NAME": "Shagan?s chicken and parantha-",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1069,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-20 2:37:06",
+            "ACTUAL_PICKUP_TIME": "2024-08-20 2:59:24",
+            "ACTUAL_DELIVERY_TIME": "2024-08-20 3:20:37",
+            "STORE_NAME": "The Cheesecake Factory (Overland Park - 0063)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1095,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-19 23:51:38",
+            "ACTUAL_PICKUP_TIME": "2024-09-20 0:17:00",
+            "ACTUAL_DELIVERY_TIME": "2024-09-20 0:20:43",
+            "STORE_NAME": "Papa Johns MKT (4696)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1109,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 17:23:36",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 17:42:26",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 17:46:51",
+            "STORE_NAME": "McDonald's (11617)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 1113,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 18:57:28",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 19:10:51",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 19:17:13",
+            "STORE_NAME": "Subway (51941-0)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1114,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-10 5:45:53",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 6:08:56",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 6:40:17",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1129,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-08 23:11:49",
+            "ACTUAL_PICKUP_TIME": "2024-11-08 23:26:20",
+            "ACTUAL_DELIVERY_TIME": "2024-11-08 23:52:23",
+            "STORE_NAME": "Raising Canes - 221",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1131,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 21:20:57",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 21:29:21",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 21:41:21",
+            "STORE_NAME": "Firehouse Subs (551) - PINNACLE VILLAGE",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1140,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-08 4:52:21",
+            "ACTUAL_PICKUP_TIME": "2024-11-08 5:02:42",
+            "ACTUAL_DELIVERY_TIME": "2024-11-08 5:10:47",
+            "STORE_NAME": "Taqueria La Nueva (Waddell Avenue)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1155,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 17:51:05",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 17:56:49",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 18:11:09",
+            "STORE_NAME": "Mr. Gyros Greek Food & Pastries (Roe Ave)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1175,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 2:14:47",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 2:31:08",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 3:06:21",
+            "STORE_NAME": "Qdoba (2991) (C)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1190,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 19:16:51",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 19:26:46",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 19:31:09",
+            "STORE_NAME": "El Torito Grill (Central Ave)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 1196,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 5:25:45",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 5:38:25",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 5:41:27",
+            "STORE_NAME": "McDonald's (8013-OP,KS - QUIVIRA)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1198,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-20 3:16:29",
+            "ACTUAL_PICKUP_TIME": "2024-08-20 3:27:55",
+            "ACTUAL_DELIVERY_TIME": "2024-08-20 3:35:56",
+            "STORE_NAME": "Abelardo's Mexican Fresh (Overland Park)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1199,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-13 11:11:33",
+            "ACTUAL_PICKUP_TIME": "2024-08-13 11:22:52",
+            "ACTUAL_DELIVERY_TIME": "2024-08-13 11:29:11",
+            "STORE_NAME": "Starbucks (25534)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1200,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-04 23:43:42",
+            "ACTUAL_PICKUP_TIME": "2024-10-04 23:52:55",
+            "ACTUAL_DELIVERY_TIME": "2024-10-05 0:16:43",
+            "STORE_NAME": "7-Eleven (29066)",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 1205,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 16:29:26",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 16:41:13",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 16:48:16",
+            "STORE_NAME": "Raising Canes - 511",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1207,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-31 19:56:21",
+            "ACTUAL_PICKUP_TIME": "2024-07-31 20:22:48",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 20:31:21",
+            "STORE_NAME": "McDonald's (13765-135TH & ANTIOCH)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1218,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-24 16:26:05",
+            "ACTUAL_PICKUP_TIME": "2024-07-24 16:36:09",
+            "ACTUAL_DELIVERY_TIME": "2024-07-24 16:43:16",
+            "STORE_NAME": "Mr. Gyros Greek Food & Pastries (Roe Ave)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1225,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-22 16:29:56",
+            "ACTUAL_PICKUP_TIME": "2024-08-22 16:46:39",
+            "ACTUAL_DELIVERY_TIME": "2024-08-22 17:09:14",
+            "STORE_NAME": "Twisted Fresh (W 135th S)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1225,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-22 23:49:10",
+            "ACTUAL_PICKUP_TIME": "2024-08-22 23:56:58",
+            "ACTUAL_DELIVERY_TIME": "2024-08-23 0:03:38",
+            "STORE_NAME": "Panda Express (3726)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1225,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 8:14:24",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 8:33:24",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 8:40:51",
+            "STORE_NAME": "Whataburger - 1210",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1229,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-15 16:58:38",
+            "ACTUAL_PICKUP_TIME": "2024-10-15 17:07:00",
+            "ACTUAL_DELIVERY_TIME": "2024-10-15 17:18:37",
+            "STORE_NAME": "Chick-fil-A (01975)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1229,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-04 1:31:07",
+            "ACTUAL_PICKUP_TIME": "2024-10-04 1:45:16",
+            "ACTUAL_DELIVERY_TIME": "2024-10-04 1:52:27",
+            "STORE_NAME": "Chick-fil-A (04543)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1254,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-27 4:23:40",
+            "ACTUAL_PICKUP_TIME": "2024-07-27 4:48:07",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 4:54:47",
+            "STORE_NAME": "Papa Johns MKT (2298)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 1275,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 3:10:44",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 3:16:05",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 3:29:34",
+            "STORE_NAME": "Qdoba (2991) (C)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1275,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 15:55:06",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 16:22:20",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 16:40:14",
+            "STORE_NAME": "Rajadhani Indian Cuisine (Blue Valley Pkwy)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1297,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-25 17:36:45",
+            "ACTUAL_PICKUP_TIME": "2024-07-25 17:47:36",
+            "ACTUAL_DELIVERY_TIME": "2024-07-25 17:56:40",
+            "STORE_NAME": "Chick-fil-A (01836)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1299,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 18:05:11",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 18:21:54",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 18:34:35",
+            "STORE_NAME": "Wingstop - 2571",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1299,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-12 0:13:31",
+            "ACTUAL_PICKUP_TIME": "2024-10-12 0:27:30",
+            "ACTUAL_DELIVERY_TIME": "2024-10-12 0:43:39",
+            "STORE_NAME": "Gocha Tea & Beverages (Shawnee Mission Pkwy)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1300,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 17:32:57",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 17:45:09",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 18:04:39",
+            "STORE_NAME": "Longboards Wraps & Bowls (135th St)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1319,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-24 18:28:42",
+            "ACTUAL_PICKUP_TIME": "2024-07-24 18:36:10",
+            "ACTUAL_DELIVERY_TIME": "2024-07-24 18:49:26",
+            "STORE_NAME": "Sonic Drive-In (2677)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1338,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 3:11:10",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 3:18:06",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 3:25:36",
+            "STORE_NAME": "Whataburger - 1282",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1345,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-05 4:40:12",
+            "ACTUAL_PICKUP_TIME": "2024-11-05 4:55:55",
+            "ACTUAL_DELIVERY_TIME": "2024-11-05 5:17:09",
+            "STORE_NAME": "Wingstop - 2326",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1347,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 22:54:34",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 23:11:49",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 23:20:07",
+            "STORE_NAME": "Fazoli's 5951 OverlandPark",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1349,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 3:27:26",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 3:45:26",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 4:01:31",
+            "STORE_NAME": "Slim Chickens - KANSAS - LENEXA (15411)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1349,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 18:22:54",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 18:44:42",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 18:56:26",
+            "STORE_NAME": "Wingstop - 1182",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1368,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-27 2:35:37",
+            "ACTUAL_PICKUP_TIME": "2024-07-27 2:54:39",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 3:02:11",
+            "STORE_NAME": "Chick In Waffle (E Bannister Rd)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1399,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 3:08:09",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 3:25:59",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 3:38:26",
+            "STORE_NAME": "Buffalo Wild Wings - Wild Burger (26)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1399,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-03 1:40:32",
+            "ACTUAL_PICKUP_TIME": "2024-09-03 2:06:01",
+            "ACTUAL_DELIVERY_TIME": "2024-09-03 2:19:54",
+            "STORE_NAME": "Revel Sports Tavern (west 119th street)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1400,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-03 2:14:50",
+            "ACTUAL_PICKUP_TIME": "2024-09-03 2:47:56",
+            "ACTUAL_DELIVERY_TIME": "2024-09-03 3:04:58",
+            "STORE_NAME": "Mi Ranchito #6",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1403,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-03 2:24:55",
+            "ACTUAL_PICKUP_TIME": "2024-09-03 2:48:16",
+            "ACTUAL_DELIVERY_TIME": "2024-09-03 3:08:49",
+            "STORE_NAME": "Mi Ranchito #6",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1403,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-04 20:38:20",
+            "ACTUAL_PICKUP_TIME": "2024-11-04 20:52:03",
+            "ACTUAL_DELIVERY_TIME": "2024-11-04 21:18:59",
+            "STORE_NAME": "Wok & Roll Express",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1410,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-28 16:46:32",
+            "ACTUAL_PICKUP_TIME": "2024-07-28 17:05:19",
+            "ACTUAL_DELIVERY_TIME": "2024-07-28 17:27:17",
+            "STORE_NAME": "Sonic Drive-In (3787)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1413,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-13 23:40:29",
+            "ACTUAL_PICKUP_TIME": "2024-08-13 23:58:21",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 0:02:57",
+            "STORE_NAME": "Panda Express (3726)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1415,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 6:08:01",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 6:49:07",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 6:54:58",
+            "STORE_NAME": "Whataburger - 1294",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1424,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-05 2:00:59",
+            "ACTUAL_PICKUP_TIME": "2024-11-05 2:25:35",
+            "ACTUAL_DELIVERY_TIME": "2024-11-05 2:39:24",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1428,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-14 2:05:17",
+            "ACTUAL_PICKUP_TIME": "2024-09-14 2:12:14",
+            "ACTUAL_DELIVERY_TIME": "2024-09-14 2:46:51",
+            "STORE_NAME": "Qdoba (2991) (C)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1435,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 0:56:46",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 1:03:12",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 1:16:36",
+            "STORE_NAME": "Culver's ButterBurgers and Frozen Custard (461)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1458,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 19:06:06",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 19:15:40",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 19:20:30",
+            "STORE_NAME": "Subway 25415-0",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1462,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-25 16:33:40",
+            "ACTUAL_PICKUP_TIME": "2024-07-25 16:40:33",
+            "ACTUAL_DELIVERY_TIME": "2024-07-25 16:46:14",
+            "STORE_NAME": "Whataburger - 1294",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1473,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 16:49:57",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 16:57:44",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 17:06:08",
+            "STORE_NAME": "Panda Express (3726)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1475,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 2:34:26",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 2:39:02",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 2:48:32",
+            "STORE_NAME": "McDonald's (13765-135TH & ANTIOCH)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 1476,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-19 3:20:54",
+            "ACTUAL_PICKUP_TIME": "2024-08-19 3:46:13",
+            "ACTUAL_DELIVERY_TIME": "2024-08-19 4:02:09",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1479,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-06 20:05:13",
+            "ACTUAL_PICKUP_TIME": "2024-11-06 20:26:02",
+            "ACTUAL_DELIVERY_TIME": "2024-11-06 20:34:13",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1479,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-26 20:15:22",
+            "ACTUAL_PICKUP_TIME": "2024-07-26 20:21:47",
+            "ACTUAL_DELIVERY_TIME": "2024-07-26 20:28:39",
+            "STORE_NAME": "Tiki Taco (80th St/Overland Park)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1498,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-05 22:15:42",
+            "ACTUAL_PICKUP_TIME": "2024-08-05 22:23:54",
+            "ACTUAL_DELIVERY_TIME": "2024-08-05 22:59:48",
+            "STORE_NAME": "Raising Canes - 511",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1499,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 2:44:52",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 2:52:29",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 3:03:42",
+            "STORE_NAME": "952 - Noodles & Company",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1500,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-26 20:03:18",
+            "ACTUAL_PICKUP_TIME": "2024-07-26 20:08:05",
+            "ACTUAL_DELIVERY_TIME": "2024-07-26 20:17:15",
+            "STORE_NAME": "Chick-fil-A (04610)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1505,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-02 3:57:09",
+            "ACTUAL_PICKUP_TIME": "2024-11-02 4:26:59",
+            "ACTUAL_DELIVERY_TIME": "2024-11-02 4:53:06",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1507,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-28 15:40:30",
+            "ACTUAL_PICKUP_TIME": "2024-07-28 15:47:02",
+            "ACTUAL_DELIVERY_TIME": "2024-07-28 15:56:21",
+            "STORE_NAME": "Sonic Drive-In (4429)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1509,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-05 22:35:09",
+            "ACTUAL_PICKUP_TIME": "2024-08-05 22:48:23",
+            "ACTUAL_DELIVERY_TIME": "2024-08-05 22:56:37",
+            "STORE_NAME": "Mi Ranchito #4",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1518,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 18:49:15",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 19:02:29",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 19:18:24",
+            "STORE_NAME": "Panera MP (202394 - Stateline Road - Kansas City MO)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1528,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-05 22:13:29",
+            "ACTUAL_PICKUP_TIME": "2024-08-05 22:22:09",
+            "ACTUAL_DELIVERY_TIME": "2024-08-05 22:31:48",
+            "STORE_NAME": "Raising Canes - 511",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1529,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 1:01:19",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 1:22:44",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 1:33:41",
+            "STORE_NAME": "Wingstop - 2675",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1537,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 18:10:45",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 18:23:44",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 18:28:26",
+            "STORE_NAME": "Subway 23470-0",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1544,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-12 18:49:27",
+            "ACTUAL_PICKUP_TIME": "2024-08-12 19:16:42",
+            "ACTUAL_DELIVERY_TIME": "2024-08-12 19:28:28",
+            "STORE_NAME": "Minsky's Pizza (Overland Park - KS)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1546,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-27 2:49:31",
+            "ACTUAL_PICKUP_TIME": "2024-07-27 3:11:22",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 3:18:19",
+            "STORE_NAME": "Sonic Drive-In (3427)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1548,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-21 2:50:15",
+            "ACTUAL_PICKUP_TIME": "2024-08-21 3:23:24",
+            "ACTUAL_DELIVERY_TIME": "2024-08-21 3:32:16",
+            "STORE_NAME": "Chipotle Mexican Grill - 3217",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1555,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-12 16:46:20",
+            "ACTUAL_PICKUP_TIME": "2024-08-12 16:54:46",
+            "ACTUAL_DELIVERY_TIME": "2024-08-12 16:57:53",
+            "STORE_NAME": "Panera MP (202360 - Metcalf Avenue - Overland Park KS)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1559,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-03 6:29:53",
+            "ACTUAL_PICKUP_TIME": "2024-08-03 6:51:22",
+            "ACTUAL_DELIVERY_TIME": "2024-08-03 7:06:08",
+            "STORE_NAME": "Sarpino's (South Leawood)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1572,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 0:54:37",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 1:03:01",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 1:08:46",
+            "STORE_NAME": "Culver's ButterBurgers and Frozen Custard (461)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1578,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 4:36:04",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 4:54:35",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 5:03:29",
+            "STORE_NAME": "Papa Johns MKT (2598)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1578,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-12 17:25:17",
+            "ACTUAL_PICKUP_TIME": "2024-09-12 17:44:27",
+            "ACTUAL_DELIVERY_TIME": "2024-09-12 17:58:40",
+            "STORE_NAME": "Wendy's (8618)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 1594,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 13:17:29",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 16:22:13",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 16:31:48",
+            "STORE_NAME": "Rajadhani Indian Cuisine (Blue Valley Pkwy)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1599,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 2:14:47",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 2:48:21",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 3:08:16",
+            "STORE_NAME": "TACO NACO KC (Overland Park)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1600,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-09 4:36:24",
+            "ACTUAL_PICKUP_TIME": "2024-11-09 4:55:09",
+            "ACTUAL_DELIVERY_TIME": "2024-11-09 5:06:16",
+            "STORE_NAME": "The Meltdown VB - 8525",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1600,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 15:00:08",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 15:05:07",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 15:14:06",
+            "STORE_NAME": "McDonald's (18179-135TH & QUIVIRA)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1616,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-31 0:05:10",
+            "ACTUAL_PICKUP_TIME": "2024-07-31 0:28:32",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 0:43:51",
+            "STORE_NAME": "Chick-fil-A (02906)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1619,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-12 17:07:22",
+            "ACTUAL_PICKUP_TIME": "2024-09-12 17:24:29",
+            "ACTUAL_DELIVERY_TIME": "2024-09-12 17:31:24",
+            "STORE_NAME": "Chick-fil-A (01975)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1623,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-22 22:38:23",
+            "ACTUAL_PICKUP_TIME": "2024-08-22 22:53:09",
+            "ACTUAL_DELIVERY_TIME": "2024-08-22 23:01:42",
+            "STORE_NAME": "SPIN! Neapolitan Pizza (135th St)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1625,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 18:44:37",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 18:53:20",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 19:07:25",
+            "STORE_NAME": "Shake Shack (Leawood 1278)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1627,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-28 16:18:35",
+            "ACTUAL_PICKUP_TIME": "2024-07-28 16:34:36",
+            "ACTUAL_DELIVERY_TIME": "2024-07-28 16:44:16",
+            "STORE_NAME": "Sarku Japan (#226 Oak Park)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1633,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-20 3:43:00",
+            "ACTUAL_PICKUP_TIME": "2024-08-20 4:00:28",
+            "ACTUAL_DELIVERY_TIME": "2024-08-20 4:11:49",
+            "STORE_NAME": "Wingstop - 2326",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1638,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-02 4:48:56",
+            "ACTUAL_PICKUP_TIME": "2024-11-02 5:17:33",
+            "ACTUAL_DELIVERY_TIME": "2024-11-02 5:29:38",
+            "STORE_NAME": "Panchos Mexican Food (Main St)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1641,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 2:22:40",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 2:46:18",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 2:54:54",
+            "STORE_NAME": "Walgreens (13950)",
+            "TOTAL_ITEM_COUNT": 8,
+            "SUBTOTAL_IN_CENTS": 1643,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 22:28:24",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 22:40:34",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 22:52:38",
+            "STORE_NAME": "Pizza Hut (038409) Marketplace - Hut Midwest LLC",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1646,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 2:16:14",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 2:23:16",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 2:29:18",
+            "STORE_NAME": "McDonald's (18179-135TH & QUIVIRA)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 1646,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-24 19:31:39",
+            "ACTUAL_PICKUP_TIME": "2024-07-24 19:58:33",
+            "ACTUAL_DELIVERY_TIME": "2024-07-24 20:10:16",
+            "STORE_NAME": "Wingstop - 2326",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1649,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-08 1:07:34",
+            "ACTUAL_PICKUP_TIME": "2024-11-08 1:29:23",
+            "ACTUAL_DELIVERY_TIME": "2024-11-08 1:45:59",
+            "STORE_NAME": "Ice Cream Bae (w 116th place)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1650,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-19 1:50:15",
+            "ACTUAL_PICKUP_TIME": "2024-08-19 1:58:34",
+            "ACTUAL_DELIVERY_TIME": "2024-08-19 2:02:43",
+            "STORE_NAME": "952 - Noodles & Company",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1660,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 17:40:13",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 17:57:35",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 18:02:07",
+            "STORE_NAME": "Chipotle Mexican Grill - 51",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1665,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-26 19:35:14",
+            "ACTUAL_PICKUP_TIME": "2024-07-26 19:45:46",
+            "ACTUAL_DELIVERY_TIME": "2024-07-26 19:58:41",
+            "STORE_NAME": "Firehouse Subs (551) - PINNACLE VILLAGE",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1690,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 14:45:46",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 15:04:51",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 15:10:14",
+            "STORE_NAME": "McDonald's (18179-135TH & QUIVIRA)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1697,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 23:23:18",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 23:36:58",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 0:00:39",
+            "STORE_NAME": "Pho Good (West 74th Terrace)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1698,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 17:09:47",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 17:19:00",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 17:35:07",
+            "STORE_NAME": "Golden Palace Chinese Restaurant (Mur-Len Rd)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1705,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 4:44:36",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 4:59:10",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 5:07:40",
+            "STORE_NAME": "Taco Bell - 036251",
+            "TOTAL_ITEM_COUNT": 32,
+            "SUBTOTAL_IN_CENTS": 1708,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-13 11:46:56",
+            "ACTUAL_PICKUP_TIME": "2024-08-13 12:13:48",
+            "ACTUAL_DELIVERY_TIME": "2024-08-13 12:24:55",
+            "STORE_NAME": "LaMar's Donuts and Coffee (College Blvd)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1713,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 19:03:36",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 19:15:35",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 19:20:30",
+            "STORE_NAME": "Subway 25415-0",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1714,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 18:02:49",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 18:10:07",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 18:42:09",
+            "STORE_NAME": "Chick-fil-A (04543)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1733,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-16 23:25:47",
+            "ACTUAL_PICKUP_TIME": "2024-08-16 23:42:43",
+            "ACTUAL_DELIVERY_TIME": "2024-08-16 23:50:19",
+            "STORE_NAME": "McDonald's (13642-119TH & ROE)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 1737,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 16:50:27",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 17:01:12",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 17:27:26",
+            "STORE_NAME": "Jumbo Noodles",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1750,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-20 1:21:54",
+            "ACTUAL_PICKUP_TIME": "2024-08-20 1:39:40",
+            "ACTUAL_DELIVERY_TIME": "2024-08-20 1:43:17",
+            "STORE_NAME": "Chipotle Mexican Grill - 336",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1750,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-07 17:09:42",
+            "ACTUAL_PICKUP_TIME": "2024-11-07 17:33:11",
+            "ACTUAL_DELIVERY_TIME": "2024-11-07 17:53:01",
+            "STORE_NAME": "The Mixx (Roe Ave)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1750,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-08 23:49:13",
+            "ACTUAL_PICKUP_TIME": "2024-11-09 0:17:44",
+            "ACTUAL_DELIVERY_TIME": "2024-11-09 0:25:24",
+            "STORE_NAME": "Tanner's Bar & Grill (119th)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1750,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 17:58:14",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 18:21:17",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 18:42:27",
+            "STORE_NAME": "Thai House (Holmes Rd)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1756,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 17:44:44",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 17:53:40",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 18:05:37",
+            "STORE_NAME": "Taco Bell - 034386",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 1763,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-05 0:11:12",
+            "ACTUAL_PICKUP_TIME": "2024-11-05 0:32:52",
+            "ACTUAL_DELIVERY_TIME": "2024-11-05 0:35:56",
+            "STORE_NAME": "Hawaiian Bros (Belton)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1775,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-02 0:40:41",
+            "ACTUAL_PICKUP_TIME": "2024-10-02 1:06:10",
+            "ACTUAL_DELIVERY_TIME": "2024-10-02 1:12:53",
+            "STORE_NAME": "Joe's Kansas City Bar-B-Que (Roe Ave)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1778,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-02 4:12:48",
+            "ACTUAL_PICKUP_TIME": "2024-11-02 4:32:20",
+            "ACTUAL_DELIVERY_TIME": "2024-11-02 4:45:02",
+            "STORE_NAME": "Denny's (8525)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1779,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 23:30:17",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 23:45:00",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 0:01:19",
+            "STORE_NAME": "SPIN! Neapolitan Pizza (135th St)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1780,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 3:08:04",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 3:19:08",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 3:40:11",
+            "STORE_NAME": "Wingstop - 2326",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1788,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 17:02:25",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 17:11:56",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 17:15:48",
+            "STORE_NAME": "Burger King (17997)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1809,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-31 20:37:18",
+            "ACTUAL_PICKUP_TIME": "2024-07-31 20:49:46",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 21:05:25",
+            "STORE_NAME": "SPIN! Neapolitan Pizza (135th St)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1810,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 1:10:24",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 1:22:22",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 1:31:07",
+            "STORE_NAME": "Go-Chicken-Go (Shawnee Dr)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 1815,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-01 17:33:03",
+            "ACTUAL_PICKUP_TIME": "2024-11-01 17:47:15",
+            "ACTUAL_DELIVERY_TIME": "2024-11-01 18:07:52",
+            "STORE_NAME": "Hawaiian Bros (OP-135th)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1825,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-01 23:51:16",
+            "ACTUAL_PICKUP_TIME": "2024-10-02 0:01:56",
+            "ACTUAL_DELIVERY_TIME": "2024-10-02 0:19:56",
+            "STORE_NAME": "Culver's ButterBurgers and Frozen Custard (285)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1826,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 7:26:18",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 7:45:31",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 7:50:23",
+            "STORE_NAME": "The Burger Den VB - 8525",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1828,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 0:21:12",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 0:39:23",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 0:59:32",
+            "STORE_NAME": "Chili's (701.856.0337)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1829,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-27 3:26:22",
+            "ACTUAL_PICKUP_TIME": "2024-07-27 3:43:50",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 4:04:08",
+            "STORE_NAME": "Sonic Drive-In (5037)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1849,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 20:01:00",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 20:06:31",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 20:21:36",
+            "STORE_NAME": "Chick-fil-A (04230)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1853,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-26 23:46:50",
+            "ACTUAL_PICKUP_TIME": "2024-07-26 23:59:32",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 0:35:25",
+            "STORE_NAME": "Hawaiian Bros (OP-135th)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1858,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 15:57:42",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 16:11:40",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 16:30:58",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1858,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-07 23:57:52",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 0:04:25",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 0:15:57",
+            "STORE_NAME": "Raising Canes - 221",
+            "TOTAL_ITEM_COUNT": 7,
+            "SUBTOTAL_IN_CENTS": 1858,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-22 22:35:34",
+            "ACTUAL_PICKUP_TIME": "2024-08-22 22:53:03",
+            "ACTUAL_DELIVERY_TIME": "2024-08-22 22:56:45",
+            "STORE_NAME": "SPIN! Neapolitan Pizza (135th St)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1865,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 1:04:08",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 1:13:46",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 1:26:59",
+            "STORE_NAME": "Culver's ButterBurgers and Frozen Custard (249)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1868,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 18:05:39",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 18:24:37",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 18:36:53",
+            "STORE_NAME": "Palacana (KC)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1868,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 18:06:04",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 18:21:08",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 18:35:48",
+            "STORE_NAME": "Burger King (17099)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 1877,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 22:05:42",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 22:13:29",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 22:20:12",
+            "STORE_NAME": "McDonald's (10885-STANLEY #4778(MCOPCO))",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 1884,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 1:40:04",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 1:54:15",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 2:04:33",
+            "STORE_NAME": "Chili's (701.856.0885)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1889,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-18 18:12:27",
+            "ACTUAL_PICKUP_TIME": "2024-08-18 18:23:55",
+            "ACTUAL_DELIVERY_TIME": "2024-08-18 18:34:43",
+            "STORE_NAME": "Crushed Red (Overland Park, KS)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1895,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-21 3:10:58",
+            "ACTUAL_PICKUP_TIME": "2024-08-21 3:27:16",
+            "ACTUAL_DELIVERY_TIME": "2024-08-21 3:36:52",
+            "STORE_NAME": "Chipotle Mexican Grill - 3217",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1900,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-05 0:34:11",
+            "ACTUAL_PICKUP_TIME": "2024-08-05 0:41:05",
+            "ACTUAL_DELIVERY_TIME": "2024-08-05 0:46:41",
+            "STORE_NAME": "Chartroose Caboose",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1903,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-01 22:51:01",
+            "ACTUAL_PICKUP_TIME": "2024-11-01 22:59:46",
+            "ACTUAL_DELIVERY_TIME": "2024-11-01 23:16:56",
+            "STORE_NAME": "Chick-fil-A (04543)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 1903,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-07 16:43:21",
+            "ACTUAL_PICKUP_TIME": "2024-10-07 16:57:36",
+            "ACTUAL_DELIVERY_TIME": "2024-10-07 17:32:50",
+            "STORE_NAME": "Planet Sub (Overland Park)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1923,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 4:10:43",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 4:20:38",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 4:28:17",
+            "STORE_NAME": "McDonald's (7772-LENEXA-PFLUMM)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1938,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-26 0:31:31",
+            "ACTUAL_PICKUP_TIME": "2024-07-26 0:53:43",
+            "ACTUAL_DELIVERY_TIME": "2024-07-26 1:05:02",
+            "STORE_NAME": "Wingstop - 2326",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1947,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 2:10:40",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 2:15:58",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 2:19:52",
+            "STORE_NAME": "McDonald's (18179-135TH & QUIVIRA)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 1956,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-01 0:22:37",
+            "ACTUAL_PICKUP_TIME": "2024-11-01 1:23:02",
+            "ACTUAL_DELIVERY_TIME": "2024-11-01 1:29:39",
+            "STORE_NAME": "Wingstop - 2085",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1957,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 17:21:02",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 17:42:39",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 17:50:14",
+            "STORE_NAME": "McDonald's (11617)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1973,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-20 4:20:39",
+            "ACTUAL_PICKUP_TIME": "2024-08-20 4:25:46",
+            "ACTUAL_DELIVERY_TIME": "2024-08-20 4:37:11",
+            "STORE_NAME": "Hawaiian Bros (OP-135th)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 1975,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-10 5:11:11",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 5:28:57",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 5:41:53",
+            "STORE_NAME": "Charlie Hooper's Bar & Grille",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1995,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-01 1:37:29",
+            "ACTUAL_PICKUP_TIME": "2024-11-01 1:45:07",
+            "ACTUAL_DELIVERY_TIME": "2024-11-01 1:49:43",
+            "STORE_NAME": "Taco Bell - 034391",
+            "TOTAL_ITEM_COUNT": 11,
+            "SUBTOTAL_IN_CENTS": 1995,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 0:55:12",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 1:01:19",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 1:06:05",
+            "STORE_NAME": "Crumbl Cookies (Overland Park)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1998,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 23:10:55",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 23:41:57",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 23:57:35",
+            "STORE_NAME": "Burger King (17997)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 1999,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 2:29:05",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 2:40:07",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 2:47:39",
+            "STORE_NAME": "951 - Noodles & Company",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2000,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 20:36:39",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 20:49:34",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 20:59:42",
+            "STORE_NAME": "The Mixx (Roe Ave)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2000,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-02 2:46:14",
+            "ACTUAL_PICKUP_TIME": "2024-11-02 3:12:21",
+            "ACTUAL_DELIVERY_TIME": "2024-11-02 3:24:02",
+            "STORE_NAME": "Wingstop - 2326",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2018,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 5:57:29",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 6:25:50",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 6:33:15",
+            "STORE_NAME": "Taco Bell - 034403",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2021,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-04 21:35:54",
+            "ACTUAL_PICKUP_TIME": "2024-10-04 22:09:28",
+            "ACTUAL_DELIVERY_TIME": "2024-10-04 22:24:15",
+            "STORE_NAME": "Joe's Kansas City Bar-B-Que (Roe Ave)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2028,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-03 5:44:50",
+            "ACTUAL_PICKUP_TIME": "2024-08-03 6:22:23",
+            "ACTUAL_DELIVERY_TIME": "2024-08-03 6:38:50",
+            "STORE_NAME": "Fox & Hound Kansas City-KRG 65029",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2032,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-02 2:46:54",
+            "ACTUAL_PICKUP_TIME": "2024-11-02 3:12:07",
+            "ACTUAL_DELIVERY_TIME": "2024-11-02 3:18:35",
+            "STORE_NAME": "Wingstop - 2326",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2046,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 22:29:22",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 22:40:21",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 22:48:05",
+            "STORE_NAME": "Pizza Hut (038404) Marketplace - Hut Midwest LLC",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2048,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-07 23:31:27",
+            "ACTUAL_PICKUP_TIME": "2024-10-07 23:50:23",
+            "ACTUAL_DELIVERY_TIME": "2024-10-08 0:16:50",
+            "STORE_NAME": "Crumbl Cookies (Overland Park)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2067,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-24 16:08:00",
+            "ACTUAL_PICKUP_TIME": "2024-07-24 16:15:31",
+            "ACTUAL_DELIVERY_TIME": "2024-07-24 16:23:55",
+            "STORE_NAME": "Shake Shack (Leawood 1278)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2075,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-27 2:06:17",
+            "ACTUAL_PICKUP_TIME": "2024-07-27 2:28:05",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 2:44:05",
+            "STORE_NAME": "Gathering KC",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2079,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-17 0:23:13",
+            "ACTUAL_PICKUP_TIME": "2024-08-17 0:47:38",
+            "ACTUAL_DELIVERY_TIME": "2024-08-17 0:58:35",
+            "STORE_NAME": "Luna's Chicken N Seafood (Troost Ave)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2079,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 1:26:58",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 1:34:53",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 1:40:16",
+            "STORE_NAME": "McDonald's (8013-OP,KS - QUIVIRA)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2086,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-30 21:25:28",
+            "ACTUAL_PICKUP_TIME": "2024-09-30 21:32:53",
+            "ACTUAL_DELIVERY_TIME": "2024-09-30 21:38:53",
+            "STORE_NAME": "Raising Canes - 221",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2098,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-10 5:41:19",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 6:08:33",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 6:20:54",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2108,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 17:12:34",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 17:29:16",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 17:39:19",
+            "STORE_NAME": "Thai House (Holmes Rd)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2113,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-27 0:38:12",
+            "ACTUAL_PICKUP_TIME": "2024-07-27 0:49:02",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 1:03:31",
+            "STORE_NAME": "JINYA Ramen Bar (Overland Park)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2136,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 0:14:39",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 0:24:51",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 0:32:43",
+            "STORE_NAME": "Minsky's Pizza (Lenexa, KS)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2140,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 4:40:27",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 4:59:17",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 5:13:03",
+            "STORE_NAME": "Taco Bell - 036251",
+            "TOTAL_ITEM_COUNT": 19,
+            "SUBTOTAL_IN_CENTS": 2144,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-14 4:35:09",
+            "ACTUAL_PICKUP_TIME": "2024-09-14 4:45:06",
+            "ACTUAL_DELIVERY_TIME": "2024-09-14 4:52:24",
+            "STORE_NAME": "Whataburger - 1247",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2144,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-24 17:21:52",
+            "ACTUAL_PICKUP_TIME": "2024-07-24 17:48:03",
+            "ACTUAL_DELIVERY_TIME": "2024-07-24 18:03:39",
+            "STORE_NAME": "AR’S Breakfast &  Brunch (Metcalf Ave)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2149,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-21 6:11:54",
+            "ACTUAL_PICKUP_TIME": "2024-08-21 6:26:47",
+            "ACTUAL_DELIVERY_TIME": "2024-08-21 6:39:27",
+            "STORE_NAME": "Jack in the Box (6201)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2170,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-05 23:20:00",
+            "ACTUAL_PICKUP_TIME": "2024-08-05 23:31:50",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 0:06:25",
+            "STORE_NAME": "Gus's Fried Chicken (Overland Park)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2185,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 4:56:08",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 5:16:34",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 5:25:31",
+            "STORE_NAME": "Taco Bell - 034398",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2194,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-13 16:04:33",
+            "ACTUAL_PICKUP_TIME": "2024-09-13 16:07:58",
+            "ACTUAL_DELIVERY_TIME": "2024-09-13 16:38:15",
+            "STORE_NAME": "Hawaiian Bros (OP-135th)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2200,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-30 18:13:23",
+            "ACTUAL_PICKUP_TIME": "2024-09-30 18:21:58",
+            "ACTUAL_DELIVERY_TIME": "2024-09-30 18:33:25",
+            "STORE_NAME": "KC Thai (Overland Park)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2200,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-05 0:12:38",
+            "ACTUAL_PICKUP_TIME": "2024-10-05 0:32:01",
+            "ACTUAL_DELIVERY_TIME": "2024-10-05 0:53:39",
+            "STORE_NAME": "Salty Iguana Mexican Restaurant (Prairie Village)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2200,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-07 17:30:34",
+            "ACTUAL_PICKUP_TIME": "2024-11-07 18:01:42",
+            "ACTUAL_DELIVERY_TIME": "2024-11-07 18:07:16",
+            "STORE_NAME": "Exclusivejerkrestaurant&bar (W 103rd St)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2200,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-25 16:23:23",
+            "ACTUAL_PICKUP_TIME": "2024-07-25 16:31:11",
+            "ACTUAL_DELIVERY_TIME": "2024-07-25 16:34:39",
+            "STORE_NAME": "Potbelly (317 - College & Glenwood)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2207,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-05 23:21:41",
+            "ACTUAL_PICKUP_TIME": "2024-08-05 23:57:12",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 0:07:12",
+            "STORE_NAME": "Hy-Vee Beer, Wine & Spirits (1034a)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2209,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 2:25:51",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 2:35:25",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 2:44:56",
+            "STORE_NAME": "Taco Bell - 034401",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2218,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-11 2:17:06",
+            "ACTUAL_PICKUP_TIME": "2024-08-11 2:43:33",
+            "ACTUAL_DELIVERY_TIME": "2024-08-11 2:50:23",
+            "STORE_NAME": "Raising Canes - 511",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 2222,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 1:33:26",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 1:43:50",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 1:59:05",
+            "STORE_NAME": "Nick The Greek (Ward Parkway)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2225,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-01 23:15:14",
+            "ACTUAL_PICKUP_TIME": "2024-11-01 23:49:58",
+            "ACTUAL_DELIVERY_TIME": "2024-11-02 0:13:13",
+            "STORE_NAME": "North Italia (OVERLAND PARK - 3005)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2250,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 23:54:04",
+            "ACTUAL_PICKUP_TIME": "2024-07-31 0:08:49",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 0:21:08",
+            "STORE_NAME": "SPIN! Neapolitan Pizza (Main St)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2270,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-25 17:20:53",
+            "ACTUAL_PICKUP_TIME": "2024-07-25 17:25:50",
+            "ACTUAL_DELIVERY_TIME": "2024-07-25 17:33:29",
+            "STORE_NAME": "McDonald's (7772-LENEXA-PFLUMM)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2286,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-17 0:18:26",
+            "ACTUAL_PICKUP_TIME": "2024-09-17 0:26:13",
+            "ACTUAL_DELIVERY_TIME": "2024-09-17 0:36:28",
+            "STORE_NAME": "Dairy Queen (44478)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2289,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 22:20:37",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 22:27:36",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 22:37:32",
+            "STORE_NAME": "KFC (G135020)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2290,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 23:50:44",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 0:08:53",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 0:31:06",
+            "STORE_NAME": "Johnny's Tavern (Antioch)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2298,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-14 5:00:10",
+            "ACTUAL_PICKUP_TIME": "2024-09-14 5:29:33",
+            "ACTUAL_DELIVERY_TIME": "2024-09-14 5:47:19",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2298,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-31 21:39:55",
+            "ACTUAL_PICKUP_TIME": "2024-07-31 21:53:34",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 22:15:27",
+            "STORE_NAME": "Revel Sports Tavern (west 119th street)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2300,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 22:17:53",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 22:40:19",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 23:02:30",
+            "STORE_NAME": "El Maguey (Washington St)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2300,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-26 2:37:10",
+            "ACTUAL_PICKUP_TIME": "2024-07-26 2:46:48",
+            "ACTUAL_DELIVERY_TIME": "2024-07-26 3:24:46",
+            "STORE_NAME": "955 - Noodles & Company",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2305,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-13 2:22:43",
+            "ACTUAL_PICKUP_TIME": "2024-09-13 2:45:58",
+            "ACTUAL_DELIVERY_TIME": "2024-09-13 2:58:17",
+            "STORE_NAME": "Leo's Italian Kitchen (OC - 0059)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2319,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 4:15:38",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 4:36:21",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 4:47:46",
+            "STORE_NAME": "Pizza Hut (038352) Marketplace - Hut Missouri LLC",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2341,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 5:58:24",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 6:25:55",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 6:36:35",
+            "STORE_NAME": "Taco Bell - 034403",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 2349,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-04 1:57:41",
+            "ACTUAL_PICKUP_TIME": "2024-10-04 2:08:52",
+            "ACTUAL_DELIVERY_TIME": "2024-10-04 2:28:12",
+            "STORE_NAME": "Carrabba's - (6701  Overland Park, KS)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2379,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-19 2:48:41",
+            "ACTUAL_PICKUP_TIME": "2024-08-19 3:18:54",
+            "ACTUAL_DELIVERY_TIME": "2024-08-19 3:40:11",
+            "STORE_NAME": "Kushi Indian Restaurant (Metcalf Ave)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2397,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-21 1:00:47",
+            "ACTUAL_PICKUP_TIME": "2024-09-21 1:16:37",
+            "ACTUAL_DELIVERY_TIME": "2024-09-21 1:47:30",
+            "STORE_NAME": "Yogurtini Overland Park (R16038)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2398,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 4:00:17",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 4:10:07",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 4:13:28",
+            "STORE_NAME": "Taco Bell - 034391",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2399,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-24 23:27:16",
+            "ACTUAL_PICKUP_TIME": "2024-09-24 23:56:48",
+            "ACTUAL_DELIVERY_TIME": "2024-09-25 0:11:25",
+            "STORE_NAME": "Desi Bites - Overland Park",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2400,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-20 3:47:24",
+            "ACTUAL_PICKUP_TIME": "2024-08-20 3:55:41",
+            "ACTUAL_DELIVERY_TIME": "2024-08-20 4:05:51",
+            "STORE_NAME": "Taco Bell - 034404",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2425,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-18 15:16:18",
+            "ACTUAL_PICKUP_TIME": "2024-08-18 15:46:35",
+            "ACTUAL_DELIVERY_TIME": "2024-08-18 16:00:15",
+            "STORE_NAME": "Nautical Bowls - 74 (Overland Park I)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2450,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-31 2:38:20",
+            "ACTUAL_PICKUP_TIME": "2024-07-31 2:54:21",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 3:01:37",
+            "STORE_NAME": "Slim Chickens - KANSAS - LENEXA (15411)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2456,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-31 1:30:07",
+            "ACTUAL_PICKUP_TIME": "2024-07-31 1:38:00",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 1:41:56",
+            "STORE_NAME": "J's Fish & Chicken Market #03 (5412 Prospect Ave)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2463,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-05 3:10:35",
+            "ACTUAL_PICKUP_TIME": "2024-10-05 3:35:11",
+            "ACTUAL_DELIVERY_TIME": "2024-10-05 3:56:53",
+            "STORE_NAME": "Sarpino's (Overland Park)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2467,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 1:59:50",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 2:13:54",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 2:40:36",
+            "STORE_NAME": "Jack in the Box (6201)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2470,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-18 23:16:31",
+            "ACTUAL_PICKUP_TIME": "2024-08-18 23:29:48",
+            "ACTUAL_DELIVERY_TIME": "2024-08-18 23:49:48",
+            "STORE_NAME": "Nick & Jake's (Overland Park)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2478,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-11 0:55:31",
+            "ACTUAL_PICKUP_TIME": "2024-08-11 2:43:40",
+            "ACTUAL_DELIVERY_TIME": "2024-08-11 2:57:30",
+            "STORE_NAME": "Raising Canes - 511",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 2495,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-02 3:21:58",
+            "ACTUAL_PICKUP_TIME": "2024-11-02 3:42:38",
+            "ACTUAL_DELIVERY_TIME": "2024-11-02 4:05:59",
+            "STORE_NAME": "RA Sushi Leawood (Ash St - 3021)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2500,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-01 20:27:01",
+            "ACTUAL_PICKUP_TIME": "2024-11-01 20:39:31",
+            "ACTUAL_DELIVERY_TIME": "2024-11-01 20:46:08",
+            "STORE_NAME": "Chipotle Mexican Grill - 3217",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2505,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-31 0:55:46",
+            "ACTUAL_PICKUP_TIME": "2024-07-31 1:03:47",
+            "ACTUAL_DELIVERY_TIME": "2024-07-31 1:21:37",
+            "STORE_NAME": "Dashmart (KSC-1)",
+            "TOTAL_ITEM_COUNT": 8,
+            "SUBTOTAL_IN_CENTS": 2522,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 0:47:22",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 0:58:21",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 1:08:29",
+            "STORE_NAME": "Raising Canes - 221",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 2527,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-20 0:31:34",
+            "ACTUAL_PICKUP_TIME": "2024-08-20 1:06:39",
+            "ACTUAL_DELIVERY_TIME": "2024-08-20 1:17:11",
+            "STORE_NAME": "Raising Canes - 221",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 2527,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 18:15:44",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 18:27:16",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 18:31:42",
+            "STORE_NAME": "Subway (51941-0)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 2529,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-27 4:13:02",
+            "ACTUAL_PICKUP_TIME": "2024-07-27 4:57:31",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 5:15:13",
+            "STORE_NAME": "Hooters (1103)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2549,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-20 4:03:05",
+            "ACTUAL_PICKUP_TIME": "2024-08-20 4:28:38",
+            "ACTUAL_DELIVERY_TIME": "2024-08-20 4:41:37",
+            "STORE_NAME": "Wingstop - 2326",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2553,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 17:36:00",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 17:45:25",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 17:55:04",
+            "STORE_NAME": "Five Guys KS-1008",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2565,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-28 16:46:48",
+            "ACTUAL_PICKUP_TIME": "2024-07-28 17:07:01",
+            "ACTUAL_DELIVERY_TIME": "2024-07-28 17:11:44",
+            "STORE_NAME": "Sonic Drive-In (3787)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2566,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 17:09:25",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 17:28:21",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 17:41:47",
+            "STORE_NAME": "Tsaocaa (W 135th St)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2575,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 5:58:18",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 6:49:14",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 6:52:12",
+            "STORE_NAME": "Whataburger - 1294",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2582,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 14:36:59",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 14:49:41",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 15:04:05",
+            "STORE_NAME": "Einstein Bros. Bagels (749)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 2585,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-08 0:34:36",
+            "ACTUAL_PICKUP_TIME": "2024-11-08 0:44:19",
+            "ACTUAL_DELIVERY_TIME": "2024-11-08 0:54:30",
+            "STORE_NAME": "Teriyaki Madness - Overland Park (151)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2591,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-11 23:13:31",
+            "ACTUAL_PICKUP_TIME": "2024-10-12 0:01:57",
+            "ACTUAL_DELIVERY_TIME": "2024-10-12 0:08:05",
+            "STORE_NAME": "Burger King (12264)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2597,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 5:24:26",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 5:57:27",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 6:04:47",
+            "STORE_NAME": "American Grilled Cheese Company (65029)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2600,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-27 3:23:06",
+            "ACTUAL_PICKUP_TIME": "2024-07-27 3:43:43",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 3:55:51",
+            "STORE_NAME": "Sonic Drive-In (5037)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2615,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-13 23:47:01",
+            "ACTUAL_PICKUP_TIME": "2024-09-14 0:19:04",
+            "ACTUAL_DELIVERY_TIME": "2024-09-14 0:24:41",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2628,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-10 1:15:13",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 1:28:16",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 1:37:15",
+            "STORE_NAME": "Panda Express (1489)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2640,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-25 15:51:57",
+            "ACTUAL_PICKUP_TIME": "2024-07-25 16:02:55",
+            "ACTUAL_DELIVERY_TIME": "2024-07-25 16:14:06",
+            "STORE_NAME": "Potbelly (317 - College & Glenwood)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2646,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 1:15:00",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 1:32:34",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 1:41:29",
+            "STORE_NAME": "Meddys (Brookside)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2661,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-05 0:49:43",
+            "ACTUAL_PICKUP_TIME": "2024-10-05 1:19:08",
+            "ACTUAL_DELIVERY_TIME": "2024-10-05 1:31:36",
+            "STORE_NAME": "Sushi Haru (State Line Rd)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 2680,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-18 15:59:05",
+            "ACTUAL_PICKUP_TIME": "2024-08-18 16:12:00",
+            "ACTUAL_DELIVERY_TIME": "2024-08-18 16:16:07",
+            "STORE_NAME": "Subway 49664-0",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 2689,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-05 20:15:31",
+            "ACTUAL_PICKUP_TIME": "2024-11-05 20:29:16",
+            "ACTUAL_DELIVERY_TIME": "2024-11-05 20:35:10",
+            "STORE_NAME": "Panda Express (3206)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 2695,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-10 3:32:34",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 3:54:56",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 4:10:31",
+            "STORE_NAME": "Rosati's Pizza (Overland Park)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2709,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 22:31:58",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 22:57:48",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 23:21:57",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2727,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-25 16:50:13",
+            "ACTUAL_PICKUP_TIME": "2024-07-25 16:55:58",
+            "ACTUAL_DELIVERY_TIME": "2024-07-25 17:02:01",
+            "STORE_NAME": "McDonald's (33168-COLLEGE & METCALF RELO)",
+            "TOTAL_ITEM_COUNT": 9,
+            "SUBTOTAL_IN_CENTS": 2749,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 16:33:32",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 16:41:38",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 16:50:37",
+            "STORE_NAME": "McDonald's (10885-STANLEY #4778(MCOPCO))",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2749,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-13 22:51:44",
+            "ACTUAL_PICKUP_TIME": "2024-08-13 23:00:44",
+            "ACTUAL_DELIVERY_TIME": "2024-08-13 23:16:15",
+            "STORE_NAME": "PetSmart (237)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2749,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-27 1:08:13",
+            "ACTUAL_PICKUP_TIME": "2024-07-27 1:55:47",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 2:10:22",
+            "STORE_NAME": "New Peking Chinese Restaurant (Westport Rd) (Call 816-531-6969 for help if Delivery is Unavailable)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2750,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 22:25:45",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 22:37:14",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 22:47:31",
+            "STORE_NAME": "Mr. Gyros Greek Food & Pastries (Overland Park)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2750,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-11 1:14:43",
+            "ACTUAL_PICKUP_TIME": "2024-08-11 1:27:28",
+            "ACTUAL_DELIVERY_TIME": "2024-08-11 1:42:21",
+            "STORE_NAME": "Papa Johns MKT (4696)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2768,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 15:49:21",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 16:00:41",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 16:15:53",
+            "STORE_NAME": "Einstein Bros. Bagels (2682)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2796,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-04 17:56:52",
+            "ACTUAL_PICKUP_TIME": "2024-11-04 18:12:41",
+            "ACTUAL_DELIVERY_TIME": "2024-11-04 18:16:42",
+            "STORE_NAME": "Twisted Fresh (W 135th S)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2800,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-28 17:26:06",
+            "ACTUAL_PICKUP_TIME": "2024-07-28 17:41:45",
+            "ACTUAL_DELIVERY_TIME": "2024-07-28 17:53:06",
+            "STORE_NAME": "McDonald's (8013-OP,KS - QUIVIRA)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2807,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 17:56:37",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 18:21:44",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 18:25:55",
+            "STORE_NAME": "Wingstop - 2571",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2819,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 0:23:01",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 1:01:42",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 1:15:34",
+            "STORE_NAME": "North Italia (OVERLAND PARK - 3005)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2825,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-06 0:29:26",
+            "ACTUAL_PICKUP_TIME": "2024-11-06 0:44:07",
+            "ACTUAL_DELIVERY_TIME": "2024-11-06 1:06:13",
+            "STORE_NAME": "Teriyaki Madness - Overland Park (151)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2842,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 3:33:30",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 4:04:54",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 4:25:03",
+            "STORE_NAME": "Hooters (1103)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2857,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 5:05:46",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 5:20:32",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 5:24:07",
+            "STORE_NAME": "Texas Toms",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2865,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-03 1:28:36",
+            "ACTUAL_PICKUP_TIME": "2024-08-03 1:38:13",
+            "ACTUAL_DELIVERY_TIME": "2024-08-03 1:43:44",
+            "STORE_NAME": "Chick-fil-A (02906)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2931,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-02 1:08:38",
+            "ACTUAL_PICKUP_TIME": "2024-11-02 1:34:09",
+            "ACTUAL_DELIVERY_TIME": "2024-11-02 1:50:20",
+            "STORE_NAME": "Cold Stone Creamery (23762)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2958,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 16:54:26",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 17:03:28",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 17:12:25",
+            "STORE_NAME": "Chipotle Mexican Grill - 3164",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2965,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-11 23:12:58",
+            "ACTUAL_PICKUP_TIME": "2024-10-11 23:26:23",
+            "ACTUAL_DELIVERY_TIME": "2024-10-12 0:08:05",
+            "STORE_NAME": "Hardee's (1500486)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 2972,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-03 1:29:21",
+            "ACTUAL_PICKUP_TIME": "2024-08-03 2:04:01",
+            "ACTUAL_DELIVERY_TIME": "2024-08-03 2:16:08",
+            "STORE_NAME": "Slim Chickens - KANSAS - MISSION (15414)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 2995,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-16 23:33:01",
+            "ACTUAL_PICKUP_TIME": "2024-09-16 23:48:51",
+            "ACTUAL_DELIVERY_TIME": "2024-09-17 0:13:19",
+            "STORE_NAME": "Raj Express Indian Kitchen (College Blvd)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 2998,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 21:52:24",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 22:18:27",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 22:28:22",
+            "STORE_NAME": "Golden Corral (645)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2999,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-03 0:55:28",
+            "ACTUAL_PICKUP_TIME": "2024-08-03 1:11:08",
+            "ACTUAL_DELIVERY_TIME": "2024-08-03 1:30:04",
+            "STORE_NAME": "Carrabba's - (6701  Overland Park, KS)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2999,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 2:52:46",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 3:12:27",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 3:34:22",
+            "STORE_NAME": "Hootie's Bait and Tackle (1103)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2999,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 2:52:46",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 3:13:28",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 3:34:22",
+            "STORE_NAME": "Hooters (1103)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 2999,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-10 3:20:20",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 3:36:02",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 3:38:17",
+            "STORE_NAME": "Papa Johns MKT (2298)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3018,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-31 0:03:23",
+            "ACTUAL_PICKUP_TIME": "2024-08-31 0:48:41",
+            "ACTUAL_DELIVERY_TIME": "2024-08-31 1:06:07",
+            "STORE_NAME": "Minsky's Pizza (Leawood)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 3020,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-04 23:47:17",
+            "ACTUAL_PICKUP_TIME": "2024-10-05 0:04:33",
+            "ACTUAL_DELIVERY_TIME": "2024-10-05 0:12:35",
+            "STORE_NAME": "Chick-fil-A (01772)",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 3022,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-16 21:46:56",
+            "ACTUAL_PICKUP_TIME": "2024-09-16 22:09:05",
+            "ACTUAL_DELIVERY_TIME": "2024-09-16 22:27:44",
+            "STORE_NAME": "Slim Chickens - KANSAS - OVERLAND PARK (15415)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3028,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 1:44:52",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 1:56:14",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 2:02:45",
+            "STORE_NAME": "Friendship Chinese Restaurant ( Troost Ave )",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 3045,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-05 22:27:05",
+            "ACTUAL_PICKUP_TIME": "2024-11-05 22:49:41",
+            "ACTUAL_DELIVERY_TIME": "2024-11-05 23:12:03",
+            "STORE_NAME": "Fox & Hound Kansas City-KRG 65029",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3051,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-26 21:05:56",
+            "ACTUAL_PICKUP_TIME": "2024-07-26 21:14:28",
+            "ACTUAL_DELIVERY_TIME": "2024-07-26 21:28:12",
+            "STORE_NAME": "RJ's Bob-Be-Que Shack (Lamar Ave)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 3100,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-01 17:31:46",
+            "ACTUAL_PICKUP_TIME": "2024-11-01 17:47:06",
+            "ACTUAL_DELIVERY_TIME": "2024-11-01 18:18:14",
+            "STORE_NAME": "Hawaiian Bros (OP-135th)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3100,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 17:02:21",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 17:22:25",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 17:28:39",
+            "STORE_NAME": "Austins Bar & Grill | South Olathe (E 151st St)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3125,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 1:46:13",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 1:54:45",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 2:09:22",
+            "STORE_NAME": "Panda Express (1489)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 3140,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-26 0:07:19",
+            "ACTUAL_PICKUP_TIME": "2024-07-26 0:24:58",
+            "ACTUAL_DELIVERY_TIME": "2024-07-26 0:32:09",
+            "STORE_NAME": "Moon Wok (W 87th Street Pkwy)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3143,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 2:03:37",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 2:16:25",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 2:25:15",
+            "STORE_NAME": "Pizza Hut (038411) Marketplace - Hut Midwest LLC",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3145,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 16:12:47",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 16:30:01",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 16:48:26",
+            "STORE_NAME": "Rajmahal Indian Restaurant (S Clairborne Rd)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3198,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 16:24:00",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 17:21:56",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 17:38:26",
+            "STORE_NAME": "Bamboo Penny's (W 116th Pl)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 3200,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-18 23:22:34",
+            "ACTUAL_PICKUP_TIME": "2024-08-18 23:37:25",
+            "ACTUAL_DELIVERY_TIME": "2024-08-18 23:43:56",
+            "STORE_NAME": "Buffalo Wild Wings - 215",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3207,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-18 23:48:03",
+            "ACTUAL_PICKUP_TIME": "2024-08-19 0:00:37",
+            "ACTUAL_DELIVERY_TIME": "2024-08-19 0:23:10",
+            "STORE_NAME": "Maggiano's (001.025.0225)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3228,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-03 2:53:12",
+            "ACTUAL_PICKUP_TIME": "2024-08-03 3:02:34",
+            "ACTUAL_DELIVERY_TIME": "2024-08-03 3:17:12",
+            "STORE_NAME": "King G (E 18th St)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 3280,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-14 2:08:53",
+            "ACTUAL_PICKUP_TIME": "2024-09-14 2:24:21",
+            "ACTUAL_DELIVERY_TIME": "2024-09-14 2:51:53",
+            "STORE_NAME": "952 - Noodles & Company",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3285,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-07 23:20:05",
+            "ACTUAL_PICKUP_TIME": "2024-08-07 23:38:48",
+            "ACTUAL_DELIVERY_TIME": "2024-08-07 23:50:23",
+            "STORE_NAME": "Desi Bites - Overland Park",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3300,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-05 1:06:42",
+            "ACTUAL_PICKUP_TIME": "2024-11-05 1:55:43",
+            "ACTUAL_DELIVERY_TIME": "2024-11-05 2:01:25",
+            "STORE_NAME": "Benihana Leawood (3021)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3300,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-14 4:59:14",
+            "ACTUAL_PICKUP_TIME": "2024-09-14 5:29:17",
+            "ACTUAL_DELIVERY_TIME": "2024-09-14 5:36:26",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 3316,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 22:42:10",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 22:58:17",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 23:02:25",
+            "STORE_NAME": "Wok & Roll Express",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 3320,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 15:22:27",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 15:30:34",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 15:48:35",
+            "STORE_NAME": "Jason's Deli (Olathe)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3332,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-16 22:49:53",
+            "ACTUAL_PICKUP_TIME": "2024-09-16 23:02:41",
+            "ACTUAL_DELIVERY_TIME": "2024-09-16 23:08:20",
+            "STORE_NAME": "Culver's ButterBurgers and Frozen Custard (973)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 3333,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-20 2:14:04",
+            "ACTUAL_PICKUP_TIME": "2024-08-20 2:21:52",
+            "ACTUAL_DELIVERY_TIME": "2024-08-20 2:26:49",
+            "STORE_NAME": "Chick-fil-A (04543)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3347,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-03 1:41:39",
+            "ACTUAL_PICKUP_TIME": "2024-08-03 1:52:38",
+            "ACTUAL_DELIVERY_TIME": "2024-08-03 1:56:59",
+            "STORE_NAME": "Chick-fil-A (02906)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 3357,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 20:59:46",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 21:11:03",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 21:22:43",
+            "STORE_NAME": "Jersey Mike's Subs (21009)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3381,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-16 22:40:30",
+            "ACTUAL_PICKUP_TIME": "2024-08-16 23:08:05",
+            "ACTUAL_DELIVERY_TIME": "2024-08-16 23:20:14",
+            "STORE_NAME": "Fazoli's 5951 OverlandPark",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3384,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-28 22:38:33",
+            "ACTUAL_PICKUP_TIME": "2024-07-28 22:51:04",
+            "ACTUAL_DELIVERY_TIME": "2024-07-28 23:12:50",
+            "STORE_NAME": "Jumbo Noodles",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3390,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-30 18:39:51",
+            "ACTUAL_PICKUP_TIME": "2024-09-30 18:53:48",
+            "ACTUAL_DELIVERY_TIME": "2024-09-30 19:08:56",
+            "STORE_NAME": "Hawaiian Bros (Overland Park)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3408,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-21 1:48:47",
+            "ACTUAL_PICKUP_TIME": "2024-08-21 1:59:13",
+            "ACTUAL_DELIVERY_TIME": "2024-08-21 2:07:23",
+            "STORE_NAME": "Panda Express (1489)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 3440,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 16:06:51",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 16:18:41",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 16:28:04",
+            "STORE_NAME": "Tropical Smoothie Cafe (KS-002)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3454,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-13 16:42:32",
+            "ACTUAL_PICKUP_TIME": "2024-09-13 17:04:05",
+            "ACTUAL_DELIVERY_TIME": "2024-09-13 17:18:50",
+            "STORE_NAME": "Carrabba's - (6701  Overland Park, KS)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3458,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-28 23:18:51",
+            "ACTUAL_PICKUP_TIME": "2024-07-28 23:36:54",
+            "ACTUAL_DELIVERY_TIME": "2024-07-28 23:54:28",
+            "STORE_NAME": "KFC (G135020)",
+            "TOTAL_ITEM_COUNT": 8,
+            "SUBTOTAL_IN_CENTS": 3484,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-28 18:51:23",
+            "ACTUAL_PICKUP_TIME": "2024-07-28 19:10:37",
+            "ACTUAL_DELIVERY_TIME": "2024-07-28 19:46:45",
+            "STORE_NAME": "Sahara Mediterranean Food",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3515,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 1:59:46",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 2:22:21",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 2:27:08",
+            "STORE_NAME": "Hawaiian Bros (Overland Park)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3533,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-30 23:49:26",
+            "ACTUAL_PICKUP_TIME": "2024-08-31 0:11:09",
+            "ACTUAL_DELIVERY_TIME": "2024-08-31 0:19:52",
+            "STORE_NAME": "Red Robin (606)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3590,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 21:33:55",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 21:47:30",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 22:00:40",
+            "STORE_NAME": "Carrabba's - (6701  Overland Park, KS)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 3596,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-19 2:52:58",
+            "ACTUAL_PICKUP_TIME": "2024-08-19 3:18:38",
+            "ACTUAL_DELIVERY_TIME": "2024-08-19 3:27:36",
+            "STORE_NAME": "Kushi Indian Restaurant (Metcalf Ave)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3598,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-20 5:19:43",
+            "ACTUAL_PICKUP_TIME": "2024-08-20 5:48:34",
+            "ACTUAL_DELIVERY_TIME": "2024-08-20 6:17:33",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 3608,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 3:35:34",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 3:46:41",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 3:50:47",
+            "STORE_NAME": "Taco Bell - 034401",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 3632,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-04 23:18:14",
+            "ACTUAL_PICKUP_TIME": "2024-08-04 23:36:04",
+            "ACTUAL_DELIVERY_TIME": "2024-08-04 23:43:45",
+            "STORE_NAME": "Crushed Red (Overland Park, KS)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3665,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-04 21:40:50",
+            "ACTUAL_PICKUP_TIME": "2024-10-04 22:09:34",
+            "ACTUAL_DELIVERY_TIME": "2024-10-04 22:36:57",
+            "STORE_NAME": "Joe's Kansas City Bar-B-Que (Roe Ave)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 3666,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-10 1:16:10",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 1:18:35",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 1:34:20",
+            "STORE_NAME": "Hawaiian Bros (OP-135th)",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 3708,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-16 22:51:34",
+            "ACTUAL_PICKUP_TIME": "2024-09-16 23:02:29",
+            "ACTUAL_DELIVERY_TIME": "2024-09-16 23:14:49",
+            "STORE_NAME": "Culver's ButterBurgers and Frozen Custard (973)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 3764,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-23 0:01:11",
+            "ACTUAL_PICKUP_TIME": "2024-08-23 0:20:24",
+            "ACTUAL_DELIVERY_TIME": "2024-08-23 0:56:53",
+            "STORE_NAME": "Shagan?s chicken and parantha-",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 3786,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 0:03:38",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 0:45:01",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 0:52:58",
+            "STORE_NAME": "Kurry Leaves Indian Cuisine",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 3798,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-03 5:21:08",
+            "ACTUAL_PICKUP_TIME": "2024-08-03 5:46:36",
+            "ACTUAL_DELIVERY_TIME": "2024-08-03 5:53:02",
+            "STORE_NAME": "Whataburger - 1294",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3808,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-18 17:09:25",
+            "ACTUAL_PICKUP_TIME": "2024-08-18 17:20:23",
+            "ACTUAL_DELIVERY_TIME": "2024-08-18 17:30:42",
+            "STORE_NAME": "Chipotle Mexican Grill - 15",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 3820,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-24 16:43:56",
+            "ACTUAL_PICKUP_TIME": "2024-07-24 16:52:55",
+            "ACTUAL_DELIVERY_TIME": "2024-07-24 17:06:32",
+            "STORE_NAME": "Chick-fil-A (04543)",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 3928,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-18 18:41:53",
+            "ACTUAL_PICKUP_TIME": "2024-08-18 19:11:00",
+            "ACTUAL_DELIVERY_TIME": "2024-08-18 19:32:02",
+            "STORE_NAME": "Mother Clucker (Ash St)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 3950,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-16 22:50:39",
+            "ACTUAL_PICKUP_TIME": "2024-08-16 23:06:40",
+            "ACTUAL_DELIVERY_TIME": "2024-08-16 23:25:45",
+            "STORE_NAME": "Five Guys KS-1008",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 3955,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-25 16:52:34",
+            "ACTUAL_PICKUP_TIME": "2024-07-25 17:07:36",
+            "ACTUAL_DELIVERY_TIME": "2024-07-25 17:21:14",
+            "STORE_NAME": "Ruchi Indian Cuisine (Antioch Rd)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 3997,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 22:21:37",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 22:38:38",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 22:41:50",
+            "STORE_NAME": "Nick & Jake's (Overland Park)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 4012,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 17:38:25",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 17:57:43",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 18:08:09",
+            "STORE_NAME": "Chipotle Mexican Grill - 51",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 4015,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-10 3:17:41",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 4:27:38",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 5:19:07",
+            "STORE_NAME": "Nashville Hot Chicken Shack (65029)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 4029,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-02 1:09:59",
+            "ACTUAL_PICKUP_TIME": "2024-10-02 1:37:29",
+            "ACTUAL_DELIVERY_TIME": "2024-10-02 1:59:30",
+            "STORE_NAME": "The Meltdown VB - 8525",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 4045,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 0:22:43",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 0:58:24",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 1:16:08",
+            "STORE_NAME": "Fat Sully's Pizza (Overland Park)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 4046,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-18 17:22:14",
+            "ACTUAL_PICKUP_TIME": "2024-08-18 17:33:52",
+            "ACTUAL_DELIVERY_TIME": "2024-08-18 17:41:20",
+            "STORE_NAME": "Church's Chicken (10449)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 4067,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-03 0:02:59",
+            "ACTUAL_PICKUP_TIME": "2024-08-03 0:34:26",
+            "ACTUAL_DELIVERY_TIME": "2024-08-03 0:55:37",
+            "STORE_NAME": "Spice N Rice (119th St)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 4096,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-07 18:27:42",
+            "ACTUAL_PICKUP_TIME": "2024-11-07 18:49:39",
+            "ACTUAL_DELIVERY_TIME": "2024-11-07 18:57:45",
+            "STORE_NAME": "Buffalo Wild Wings - 26",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 4127,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 22:57:13",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 23:13:33",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 23:23:29",
+            "STORE_NAME": "Talk Of The Town (Leawood)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 4225,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-02 4:12:07",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 4:33:11",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 4:37:42",
+            "STORE_NAME": "Taco Bell - 034397",
+            "TOTAL_ITEM_COUNT": 25,
+            "SUBTOTAL_IN_CENTS": 4263,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 1:09:34",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 1:19:01",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 1:29:51",
+            "STORE_NAME": "Tuk Tuk Thai",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 4285,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 0:05:43",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 0:20:08",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 0:28:15",
+            "STORE_NAME": "Bogey's Pub (Leawood)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 4325,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-13 22:05:34",
+            "ACTUAL_PICKUP_TIME": "2024-09-13 23:33:15",
+            "ACTUAL_DELIVERY_TIME": "2024-09-13 23:43:25",
+            "STORE_NAME": "Casey's General Stores (OVERLAND PARK 1 - 3436)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 4444,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-21 4:13:29",
+            "ACTUAL_PICKUP_TIME": "2024-08-21 4:29:35",
+            "ACTUAL_DELIVERY_TIME": "2024-08-21 4:40:44",
+            "STORE_NAME": "The Philly Cheesesteak Company (65029)",
+            "TOTAL_ITEM_COUNT": 1,
+            "SUBTOTAL_IN_CENTS": 4467,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-16 17:10:29",
+            "ACTUAL_PICKUP_TIME": "2024-09-16 17:38:36",
+            "ACTUAL_DELIVERY_TIME": "2024-09-16 17:53:04",
+            "STORE_NAME": "Cava Corbin Park 236",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 4508,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-10 0:48:20",
+            "ACTUAL_PICKUP_TIME": "2024-08-10 0:58:23",
+            "ACTUAL_DELIVERY_TIME": "2024-08-10 1:07:03",
+            "STORE_NAME": "Popeyes Louisiana Kitchen - 7724 W 151st St",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 4595,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-16 16:18:45",
+            "ACTUAL_PICKUP_TIME": "2024-09-16 16:54:07",
+            "ACTUAL_DELIVERY_TIME": "2024-09-16 17:10:23",
+            "STORE_NAME": "Hokibar (Metcalf Ave)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 4645,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-05 0:01:51",
+            "ACTUAL_PICKUP_TIME": "2024-11-05 0:30:29",
+            "ACTUAL_DELIVERY_TIME": "2024-11-05 0:40:39",
+            "STORE_NAME": "Buffalo Wild Wings - 170",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 4737,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-10-07 23:30:51",
+            "ACTUAL_PICKUP_TIME": "2024-10-07 23:42:53",
+            "ACTUAL_DELIVERY_TIME": "2024-10-08 0:21:57",
+            "STORE_NAME": "SPIN! Neapolitan Pizza (135th St)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 4825,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-27 5:28:29",
+            "ACTUAL_PICKUP_TIME": "2024-07-27 5:56:14",
+            "ACTUAL_DELIVERY_TIME": "2024-07-27 6:24:47",
+            "STORE_NAME": "Pizza Hut (038352) Marketplace - Hut Missouri LLC",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 4864,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-08 22:38:16",
+            "ACTUAL_PICKUP_TIME": "2024-08-08 22:45:58",
+            "ACTUAL_DELIVERY_TIME": "2024-08-08 22:51:30",
+            "STORE_NAME": "Chipotle Mexican Grill - 336",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 4875,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-19 0:39:51",
+            "ACTUAL_PICKUP_TIME": "2024-08-19 0:53:33",
+            "ACTUAL_DELIVERY_TIME": "2024-08-19 1:08:02",
+            "STORE_NAME": "Cozy Thai Kc",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 4880,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-13 23:19:19",
+            "ACTUAL_PICKUP_TIME": "2024-08-13 23:28:42",
+            "ACTUAL_DELIVERY_TIME": "2024-08-13 23:36:30",
+            "STORE_NAME": "Five Guys KS-2045",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 4926,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-30 16:25:10",
+            "ACTUAL_PICKUP_TIME": "2024-07-30 16:59:59",
+            "ACTUAL_DELIVERY_TIME": "2024-07-30 17:17:43",
+            "STORE_NAME": "Twisted Fresh (W 135th S)",
+            "TOTAL_ITEM_COUNT": 11,
+            "SUBTOTAL_IN_CENTS": 4950,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-20 0:17:11",
+            "ACTUAL_PICKUP_TIME": "2024-09-20 0:55:54",
+            "ACTUAL_DELIVERY_TIME": "2024-09-20 1:29:37",
+            "STORE_NAME": "Rosati's Pizza (Overland Park)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 4988,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-14 0:59:42",
+            "ACTUAL_PICKUP_TIME": "2024-08-14 1:14:41",
+            "ACTUAL_DELIVERY_TIME": "2024-08-14 1:39:28",
+            "STORE_NAME": "Maggiano's (001.025.0225)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 5008,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 22:44:23",
+            "ACTUAL_PICKUP_TIME": "2024-08-01 23:09:21",
+            "ACTUAL_DELIVERY_TIME": "2024-08-01 23:26:39",
+            "STORE_NAME": "Hokibar (Metcalf Ave)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 5084,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 1:10:30",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 1:43:47",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 1:53:47",
+            "STORE_NAME": "Firehouse Subs (551) - PINNACLE VILLAGE",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 5190,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-14 3:04:35",
+            "ACTUAL_PICKUP_TIME": "2024-09-14 3:30:43",
+            "ACTUAL_DELIVERY_TIME": "2024-09-14 3:59:38",
+            "STORE_NAME": "Tanner's (Holmes Rd)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 5308,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-07 22:54:08",
+            "ACTUAL_PICKUP_TIME": "2024-11-07 23:09:30",
+            "ACTUAL_DELIVERY_TIME": "2024-11-07 23:35:39",
+            "STORE_NAME": "Party City (938)",
+            "TOTAL_ITEM_COUNT": 2,
+            "SUBTOTAL_IN_CENTS": 5368,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 0:22:18",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 0:42:20",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 0:50:15",
+            "STORE_NAME": "Grimaldi's Pizzeria (Overland Park)",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 5500,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-02 3:07:18",
+            "ACTUAL_PICKUP_TIME": "2024-11-02 3:42:25",
+            "ACTUAL_DELIVERY_TIME": "2024-11-02 4:05:59",
+            "STORE_NAME": "RA Sushi Leawood (Ash St - 3021)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 5550,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-01 23:54:24",
+            "ACTUAL_PICKUP_TIME": "2024-08-02 0:15:58",
+            "ACTUAL_DELIVERY_TIME": "2024-08-02 0:37:28",
+            "STORE_NAME": "JINYA Ramen Bar (Overland Park)",
+            "TOTAL_ITEM_COUNT": 5,
+            "SUBTOTAL_IN_CENTS": 6072,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-06 1:10:42",
+            "ACTUAL_PICKUP_TIME": "2024-08-06 1:49:26",
+            "ACTUAL_DELIVERY_TIME": "2024-08-06 2:03:13",
+            "STORE_NAME": "Ruchi Indian Cuisine (Antioch Rd)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 6196,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-09 0:40:17",
+            "ACTUAL_PICKUP_TIME": "2024-11-09 1:02:45",
+            "ACTUAL_DELIVERY_TIME": "2024-11-09 1:13:45",
+            "STORE_NAME": "Tuk Tuk Thai",
+            "TOTAL_ITEM_COUNT": 6,
+            "SUBTOTAL_IN_CENTS": 6370,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-01 23:12:40",
+            "ACTUAL_PICKUP_TIME": "2024-11-01 23:49:52",
+            "ACTUAL_DELIVERY_TIME": "2024-11-02 0:04:28",
+            "STORE_NAME": "North Italia (OVERLAND PARK - 3005)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 6500,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-11-05 1:00:20",
+            "ACTUAL_PICKUP_TIME": "2024-11-05 1:25:57",
+            "ACTUAL_DELIVERY_TIME": "2024-11-05 1:35:59",
+            "STORE_NAME": "Pizza Hut (041682) Marketplace - Hut Missouri LLC",
+            "TOTAL_ITEM_COUNT": 7,
+            "SUBTOTAL_IN_CENTS": 6537,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-09-13 16:41:42",
+            "ACTUAL_PICKUP_TIME": "2024-09-13 17:01:30",
+            "ACTUAL_DELIVERY_TIME": "2024-09-13 17:13:14",
+            "STORE_NAME": "Teriyaki Madness - Overland Park (151)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 6544,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-07-29 0:36:30",
+            "ACTUAL_PICKUP_TIME": "2024-07-29 0:41:47",
+            "ACTUAL_DELIVERY_TIME": "2024-07-29 0:56:42",
+            "STORE_NAME": "Hawaiian Bros (Lenexa)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 6600,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 23:07:56",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 23:21:54",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 23:34:21",
+            "STORE_NAME": "Potbelly (317 - College & Glenwood)",
+            "TOTAL_ITEM_COUNT": 8,
+            "SUBTOTAL_IN_CENTS": 7210,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-19 0:30:25",
+            "ACTUAL_PICKUP_TIME": "2024-08-19 0:42:02",
+            "ACTUAL_DELIVERY_TIME": "2024-08-19 0:46:17",
+            "STORE_NAME": "Martin City Pizza & Taproom (Indian Creek Pkwy)",
+            "TOTAL_ITEM_COUNT": 7,
+            "SUBTOTAL_IN_CENTS": 8885,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-18 22:59:22",
+            "ACTUAL_PICKUP_TIME": "2024-08-18 23:11:29",
+            "ACTUAL_DELIVERY_TIME": "2024-08-18 23:18:12",
+            "STORE_NAME": "Maggiano's (001.025.0225)",
+            "TOTAL_ITEM_COUNT": 4,
+            "SUBTOTAL_IN_CENTS": 10066,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-11 1:31:46",
+            "ACTUAL_PICKUP_TIME": "2024-08-11 1:59:20",
+            "ACTUAL_DELIVERY_TIME": "2024-08-11 2:19:01",
+            "STORE_NAME": "China One Express",
+            "TOTAL_ITEM_COUNT": 7,
+            "SUBTOTAL_IN_CENTS": 10265,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-11 3:04:46",
+            "ACTUAL_PICKUP_TIME": "2024-08-11 3:32:03",
+            "ACTUAL_DELIVERY_TIME": "2024-08-11 3:56:30",
+            "STORE_NAME": "Firebirds Wood Fired Grill Overland Park-30",
+            "TOTAL_ITEM_COUNT": 3,
+            "SUBTOTAL_IN_CENTS": 11006,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        },
+        {
+            "ORDER_CREATED_TIME": "2024-08-09 23:23:39",
+            "ACTUAL_PICKUP_TIME": "2024-08-09 23:45:16",
+            "ACTUAL_DELIVERY_TIME": "2024-08-09 23:51:58",
+            "STORE_NAME": "Jack Stack Barbecue - Overland Park",
+            "TOTAL_ITEM_COUNT": 8,
+            "SUBTOTAL_IN_CENTS": 12610,
+            "ORDER_STATUS": "Order Delivered",
+            "TIP": ""
+        }
+    ]
+}
